@@ -3,7 +3,6 @@ package samples.demo;
 public class Location {
 	private String name;
 	private int locationId;
-	private String description;
 	
 	public String getName() {
 		return name;
